@@ -1,0 +1,107 @@
+.ui.borderless.topmenu.menu {
+  box-shadow: none;
+  border: none;
+  margin: 0px;
+}
+
+.ui.borderless.topmenu.menu .item {
+  color: #000;
+  font-weight: bold;
+}
+
+.vid-background {
+  background: url(http://cwsmgmt.corsair.com/responsive/img/Corsair_Elite_Loop_v05.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: auto;
+  width: 100%;
+  margin: 0px;
+}
+
+.black-background {
+  padding-top: 3em;
+  padding-bottom: 2em;
+  background-color: black;
+  color: whitesmoke;
+  height: 300px;
+}
+
+.yellow-background {
+  background-color: #f0cf1e;
+  color: black;
+  height: 200px;
+}
+
+.down-arrow {
+  position: absolute;
+  bottom: 5%;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  cursor: pointer;
+  height: 6em;
+  fill: #f0cf1e;
+  padding-bottom: 10px;
+}
+
+.yellow-background-line {
+  background-color: #f0cf1e;
+  height: 3px;
+}
+
+.corsair-logo img {
+
+  width: 170px;
+
+  padding-top: 0px;
+  padding-right: 8%;
+}
+
+.black-background h4 {
+  color: #f0cf1e;
+}
+
+#footer p, a .item {
+
+  font-weight: 300;
+  letter-spacing: 0.1em;
+
+}
+
+.six-column-grid-container a {
+  color: whitesmoke;
+}
+
+.bottom-of-div a, p .item {
+  color: whitesmoke;
+}
+
+.bottom-of-div {
+  margin: 0px;
+}
+.bottom-of-div .text{
+  color: whitesmoke;
+}
+
+#bottom-of-div-menu {
+  box-shadow: none;
+  border: none;
+  /*border-radius: 0px; doesnt do anything*/
+}
+
+.ui.centered.image {
+  width: 170px;
+}
+
+.arrow {
+  height: 100px;
+  width: 100px;
+}
+
+.white-smoke-text {
+  padding-top: 5em;
+  color: whitesmoke;
+}
+
+.ui.yellow.huge.button{
+  border-radius: 0px;
+}
